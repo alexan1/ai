@@ -1,4 +1,4 @@
-# Chapter 2 — The Contract
+# Chapter 2 — The Offer
 
 The next morning, he woke earlier than usual.
 
