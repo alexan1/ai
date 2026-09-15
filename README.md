@@ -5,9 +5,9 @@
 ## Table of Contents
 
 * [Synopsis](synopsis.md)
-* [Chapter 1 — The Message](chapter-1.md)
-* [Chapter 2 — The Offer](chapter-2.md)
-* [Chapter 3 — The Contract](chapter-3.md)
+* [Chapter 1 — The Message](chapter_1.md)
+* [Chapter 2 — The Offer](chapter_2.md)
+* [Chapter 3 — The Contract](chapter_3.md)
 
 ## About the Novel
 
