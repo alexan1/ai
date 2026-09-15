@@ -1,4 +1,4 @@
-# Splendeurs et misères des AI
+# [Splendeurs et misères des AI](http://alexsolution.com/ai/)
 
 *A novel about ambition, artificial intelligence, and the price of getting what you want.*
 
